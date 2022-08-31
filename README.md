@@ -1,0 +1,2 @@
+# next-misc
+NextJS Miscellaneous
